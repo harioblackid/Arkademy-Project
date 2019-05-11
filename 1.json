@@ -1,0 +1,12 @@
+{
+	"name":"Hario Saloko", 
+	"address":"Kp. Karokrok Utara RT. 003/002 Ds. Kalijaya Kec. Telagasari Kab. Karawang",
+	"hobbies":["Gaming", "Hiking", "Learn Coding"],
+	"is_married":false,
+	"school":{"HighSchool":"SMK PGRI TELAGASARI", "University":"STMIK Bandung"},
+	"skill":[
+			{"Name":"Design", "Score":70},
+			{"Name":"FrontEnd", "Score":65},
+			{"Name":"BackEnd", "Score":80}
+			]
+}
